@@ -7,7 +7,7 @@ const App = () => {
   });
   return (
     <React.StrictMode>
-      <div>Hello Hello world...</div>;
+      <div>Hello Hello world...</div>
     </React.StrictMode>
   );
 };
